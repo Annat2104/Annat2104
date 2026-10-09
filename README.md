@@ -64,10 +64,6 @@ I love exploring digital tools, solving problems with code, and discovering how 
 
 <p align="center"> 🌸 ─────────────── 💐 ─────────────── 🌸 </p>
 
-<h2 align="center">🎮 04 — GAME CORNER</h2>
-
-<details>
-<summary><b>🎮 Click here for a quick break & play! 🌸</b></summary>
 
 <br>
 
