@@ -1,4 +1,4 @@
-```html
+
 <!-- =========================================
      ANA TORRALBO · GITHUB PROFILE README
      Theme: Purple · Blue · Black
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <b>Hi, I'm Ana Torralbo.</b><br>
+  <b>Hi, I'm Anna Torralbo.</b><br>
   I'm a student who enjoys turning ideas into projects,
   exploring my creativity and learning new things along the way.
 </p>
@@ -70,6 +70,6 @@ I enjoy collaborating on school projects, sharing ideas and helping organize tas
 
 <p align="center">
   <b>BUILD · LEARN · CREATE · GROW</b><br><br>
-  Made with ♡ by <b>Ana Torralbo</b>
+  Made with ♡ by <b>Anna Torralbo</b>
 </p>
 ```
