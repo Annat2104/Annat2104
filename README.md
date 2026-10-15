@@ -1,21 +1,27 @@
+```html
+<!-- =========================================
+     ANA TORRALBO · GITHUB PROFILE README
+     Theme: Purple · Blue · Black
+========================================= -->
 
 <p align="center">
-  <img src="banner.svg" alt="Anna Torralbo - Floral Blue and Purple Banner" width="100%">
+  <img src="banner(1).svg" alt="Ana Torralbo - Learn Create Grow" width="100%">
 </p>
 
 <p align="center">
-  <img src="about-me.svg" alt="About Me" width="100%">
+  <img src="about-me(1).svg" alt="About Me" width="100%">
 </p>
 
 <p align="center">
-  <b>Hi, I'm Anna Torralbo. 🌸</b><br>
-  I'm a student who enjoys turning ideas into projects, exploring my creativity and learning new things along the way.
+  <b>Hi, I'm Ana Torralbo.</b><br>
+  I'm a student who enjoys turning ideas into projects,
+  exploring my creativity and learning new things along the way.
 </p>
 
 <br>
 
 <p align="center">
-  <img src="who-i-am.svg" alt="Who I Am" width="100%">
+  <img src="who-i-am(1).svg" alt="Who I Am" width="100%">
 </p>
 
 - **Creative mind:** I enjoy exploring ideas and finding new ways to express them.
@@ -26,15 +32,15 @@
 <br>
 
 <p align="center">
-  <img src="leadership.svg" alt="Leadership Experience" width="100%">
+  <img src="leadership(1).svg" alt="Leadership Experience" width="100%">
 </p>
 
-I enjoy collaborating on school projects, sharing ideas and helping organize tasks. I believe teamwork, creativity and good communication can turn simple ideas into meaningful projects. 🌷
+I enjoy collaborating on school projects, sharing ideas and helping organize tasks. I believe teamwork, creativity and good communication can turn simple ideas into meaningful projects.
 
 <br>
 
 <p align="center">
-  <img src="skills.svg" alt="Certifications and Skills" width="100%">
+  <img src="skills(1).svg" alt="Certifications and Skills" width="100%">
 </p>
 
 | Area | Details |
@@ -48,7 +54,7 @@ I enjoy collaborating on school projects, sharing ideas and helping organize tas
 <br>
 
 <p align="center">
-  <img src="working-on.svg" alt="What I'm Working On" width="100%">
+  <img src="working-on(1).svg" alt="What I'm Working On" width="100%">
 </p>
 
 - Building my GitHub portfolio with personal projects.
@@ -59,10 +65,11 @@ I enjoy collaborating on school projects, sharing ideas and helping organize tas
 <br>
 
 <p align="center">
-  <img src="quote.svg" alt="Great things are done by a series of small things brought together." width="100%">
+  <img src="quote(1).svg" alt="Great things are done by a series of small things brought together." width="100%">
 </p>
 
 <p align="center">
-  💙 <b>BUILD · LEARN · CREATE · GROW</b> 💜<br><br>
-  Made with ♡ by <b>Anna Torralbo</b>
+  <b>BUILD · LEARN · CREATE · GROW</b><br><br>
+  Made with ♡ by <b>Ana Torralbo</b>
 </p>
+```
